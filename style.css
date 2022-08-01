@@ -3,6 +3,15 @@ body {
     font-family: sans-serif;
 }
 
+#title {
+    text-shadow: 0px 0px 10px #0f0fbe83;
+    text-shadow: 0px 0px 20px #017272bb;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    color: antiquewhite;
+}
+
 .fancy {
     font-family: serif;
     font-size: 22px;
